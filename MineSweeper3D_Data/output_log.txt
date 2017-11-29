@@ -1,0 +1,35 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 Ti (ID=0x1380)
+    Vendor:   NVIDIA
+    VRAM:     1992 MB
+    Driver:   10.18.13.6881
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\unity_projects\MineSweeper3D\MineSweeper3D_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\unity_projects\MineSweeper3D\MineSweeper3D_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\unity_projects\MineSweeper3D\MineSweeper3D_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\unity_projects\MineSweeper3D\MineSweeper3D_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\unity_projects\MineSweeper3D\MineSweeper3D_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\unity_projects\MineSweeper3D\MineSweeper3D_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\unity_projects\MineSweeper3D\MineSweeper3D_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\unity_projects\MineSweeper3D\MineSweeper3D_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\unity_projects\MineSweeper3D\MineSweeper3D_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\unity_projects\MineSweeper3D\MineSweeper3D_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\unity_projects\MineSweeper3D\MineSweeper3D_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\unity_projects\MineSweeper3D\MineSweeper3D_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.030 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.739655 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 23c8 -> priority: 1 
+  Thread -> id: 2bf4 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.362778 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 363.
+Total: 0.508076 ms (FindLiveObjects: 0.044168 ms CreateObjectMapping: 0.167269 ms MarkObjects: 0.269853 ms  DeleteObjects: 0.025646 ms)
+
