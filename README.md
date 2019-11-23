@@ -8,9 +8,7 @@
 # プレイ
 [MineSweeper3D](https://developer.cloud.unity3d.com/share/b1rzZO0s1X/webgl/)  
 環境によってはプレイできないことがあります。  
-私のメイン機のデスクトップのWindowsでは問題なくプレイが~~できた~~できなくなった。ブラウザをChromeからFirefoxにすることでプレイができた。   
-スマホだとまともに操作はできないがロードは完了、何故か私のMacbookProのsafariでは動かず。Chromeにすることで動いた。  
-WebGLはPCスペックというよりブラウザが不安定のようだ。
+その場合、ブラウザを変えるといいかもしれません。  
 
 # マインスイーパーのアルゴリズム解説
 
